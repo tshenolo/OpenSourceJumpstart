@@ -1,2 +1,2 @@
-# Git Command Line
+# Git Command Line Guide
 
