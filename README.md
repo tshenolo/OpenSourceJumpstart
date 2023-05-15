@@ -2,9 +2,17 @@
 Welcome to OpenSourceJumpstart, a beginner-friendly repository designed to help aspiring developers get started with contributing to open source projects. 
 Whether you're new to programming or looking to expand your skills, this repository aims to guide you through the process of becoming an open source contributor.
 
-## Prerequisites
-blah
+Generally Open Source Contribution consists of identifying an project you would like to contribute to and following the steps below. I have created this project/repository to allow you to get hands on experience. 
 
+## Tools to Use
+You can use any of the following tools:
+- Github.com web interface 
+- Git command line
+- Github CLI
+
+Check out https://docs.github.com/en/get-started/quickstart/set-up-git for more details
+
+Once you have choosen your tools and set them up please follow the steps highlighted below to contribute to this project:
 
 ## Fork this repository
 Forking the repository means creating your own copy of the project on GitHub. By forking, you will have your independent version of the project that you can freely modify and experiment with. Forking is the first step to contributing to an open source project.
