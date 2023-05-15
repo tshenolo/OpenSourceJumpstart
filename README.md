@@ -19,6 +19,15 @@ Choose the option that aligns with your preferred workflow and comfort level wit
 
 Choose the option that aligns with your preferred workflow and comfort level with Git and GitHub. Regardless of the method you choose, the key is to understand the underlying concepts and processes involved in contributing to open source projects.
 
+## Start Contributing
+[Step 1: Fork this repository](#fork-this-repository)
+[Step 2: Clone this repository](#clone-this-repository)
+[Step 3: Create a branch](#create-a-branch)
+[Step 4: Make your changes](#make-your-changes)
+[Step 5: Commit your changes](#commit-your-changes)
+[Step 6: Push your changes to GitHub](#push-your-changes-to-github)
+[Step 7: Submit a pull request](#submit-a-pull-request)
+[Step 8: Next Steps](#next-steps)
 
 
 ## Fork this repository
@@ -77,7 +86,7 @@ We strive to maintain an inclusive and welcoming community. Please review and ab
 
 ## Issue Tracker
 If you encounter any bugs, have feature suggestions, or want to discuss project-related topics, please use our 
-[issue tracker](https://github.com/your-username/OpenSourceJumpstart/issues) to communicate with the community.
+[issue tracker](https://github.com/tshenolo/OpenSourceJumpstart/issues) to communicate with the community.
 
 ## Frequently Asked Questions (FAQ)
 Check out our [FAQ](FAQ.md) for answers to common questions and concerns.
@@ -86,7 +95,7 @@ Check out our [FAQ](FAQ.md) for answers to common questions and concerns.
 For additional resources on open source contribution and programming, refer to our curated list of [resources](RESOURCES.md).
 
 ## Contact Information
-For any further questions or inquiries, feel free to reach out to us at your-email@example.com or connect with us on [Twitter](https://twitter.com/tshenolo).
+For any further questions or inquiries, feel free to reach out to us at contact@tshenolo.me or connect with us on [Twitter](https://twitter.com/tshenolo).
 
 ## Support
 If you found this project useful please give it a ⭐ star ⭐ at the top of the page
