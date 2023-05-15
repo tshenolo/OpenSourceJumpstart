@@ -2,17 +2,24 @@
 Welcome to OpenSourceJumpstart, a beginner-friendly repository designed to help aspiring developers get started with contributing to open source projects. 
 Whether you're new to programming or looking to expand your skills, this repository aims to guide you through the process of becoming an open source contributor.
 
-Generally Open Source Contribution consists of identifying an project you would like to contribute to and following the steps below. I have created this project/repository to allow you to get hands on experience. 
+Open Source Contribution consists of identifying a project you would like to contribute to and following the steps below. I have created this project/repository to allow you to get hands on experience. 
 
-## Tools to Use
-You can use any of the following tools:
-- Github.com web interface 
-- Git command line
-- Github CLI
+## Options for Contributing to Open Source
+When it comes to contributing to open source projects, you have several options for interacting with Git and GitHub. Choose the one that suits your preferences and experience level:
 
-Check out https://docs.github.com/en/get-started/quickstart/set-up-git for more details
+1. Git Command Line: The Git command line interface provides full control and flexibility for managing your local repositories and interacting with remote repositories. It requires familiarity with basic Git commands, such as git clone, git add, git commit, and git push. This option is suitable for developers comfortable working with the command line.
 
-Once you have choosen your tools and set them up please follow the steps highlighted below to contribute to this project:
+2. GitHub CLI: GitHub CLI is a command-line tool specifically designed for GitHub. It provides an intuitive way to interact with GitHub repositories and perform various tasks, such as creating pull requests, reviewing code, and managing issues. GitHub CLI simplifies the workflow by eliminating the need to switch between the command line and the GitHub web interface.
+
+3. GitHub Desktop Application: GitHub Desktop is a user-friendly application that provides a graphical interface for managing your Git repositories. It offers an intuitive way to clone repositories, make changes, commit code, and synchronize with remote repositories. GitHub Desktop is an excellent option for those who prefer a visual approach to working with Git and GitHub.
+
+4. GitHub.com Web Interface: The GitHub.com web interface is accessible through any web browser and provides a comprehensive set of features for contributing to open source projects. You can create new branches, make changes to files, commit code, submit pull requests, and participate in discussions, all through the GitHub.com interface. This option requires no additional software installation and is suitable for beginners or those who prefer a web-based workflow.
+
+Choose the option that aligns with your preferred workflow and comfort level with Git and GitHub. Regardless of the method you choose, the key is to understand the underlying concepts and processes involved in contributing to open source projects.
+
+Choose the option that aligns with your preferred workflow and comfort level with Git and GitHub. Regardless of the method you choose, the key is to understand the underlying concepts and processes involved in contributing to open source projects.
+
+
 
 ## Fork this repository
 Forking the repository means creating your own copy of the project on GitHub. By forking, you will have your independent version of the project that you can freely modify and experiment with. Forking is the first step to contributing to an open source project.
@@ -63,13 +70,30 @@ Next steps may include exploring other issues or features to work on, continuing
 By following these steps, developers can gain practical experience in contributing to open source projects, familiarize themselves with collaboration workflows, and build their reputation in the open source community.
 
 ## Become a maintainer of this repo
-Are you interested in becoming a maintainer for this project and contributing to its development? If so, please read the maintainer's guide and send me a direct message on Twitter at [@tshenolo](https://twitter.com/tshenolo) to express your interest. 
+Are you interested in becoming a maintainer for this project and contributing to its development? If so, please read the maintainer's guide and send me a direct message on [Twitter](https://twitter.com/tshenolo) to express your interest. 
+
+## Code of Conduct
+We strive to maintain an inclusive and welcoming community. Please review and abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Issue Tracker
+If you encounter any bugs, have feature suggestions, or want to discuss project-related topics, please use our 
+[issue tracker](https://github.com/your-username/OpenSourceJumpstart/issues) to communicate with the community.
+
+## Frequently Asked Questions (FAQ)
+Check out our [FAQ](FAQ.md) for answers to common questions and concerns.
+
+## Resources
+For additional resources on open source contribution and programming, refer to our curated list of [resources](RESOURCES.md).
+
+## Contact Information
+For any further questions or inquiries, feel free to reach out to us at your-email@example.com or connect with us on [Twitter](https://twitter.com/tshenolo).
 
 ## Support
 If you found this project useful please give it a ⭐ star ⭐ at the top of the page
 
-## Find projects to contribute to
-blah
+
+We look forward to your valuable contributions and hope this repository serves as a launching pad for your open source journey!
+
 
 
 
