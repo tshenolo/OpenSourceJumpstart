@@ -74,6 +74,27 @@ Note: Replace "Your Name" with your name and your-username with your github user
 - [Tshenolo Mos](https://github.com/tshenolo)
 ```
 
+## Stage your changes
+After making your desired changes to the code, the next step in the contribution process is to stage your modifications. Staging involves selecting the specific files or changes that you want to include in your commit. By staging changes, you are indicating to Git that you want these modifications to be part of your next commit.
+
+For example, to stage a single file named "example.py", you would run the following command:
+
+```
+git add example.py
+```
+
+To stage all changes in the current directory and its subdirectories, you can use a wildcard:
+
+```
+git add .
+```
+
+Stage your changes by executing the following command:
+```
+git add Contributors.md
+```
+
+
 ## Commit your changes
 Committing is the process of saving your changes locally with a descriptive message. Make atomic commits, which means each commit should contain a single logical change. Clearly describe the purpose and scope of your changes in the commit message to aid understanding for other contributors and maintainers.
 
