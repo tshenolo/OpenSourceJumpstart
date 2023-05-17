@@ -70,7 +70,7 @@ Note: replace your-username in the command above with your username. eg tshenolo
 ## Make your changes
 Once you have created a branch, start making your desired changes to the codebase. This can include fixing bugs, adding new features, improving documentation, or optimizing existing code. Follow the project's guidelines and coding conventions to ensure consistency with the existing codebase.
 
-👉🏻 Open Contributors.md in your code editor then add the following:
+👉🏻 Open CONTRIBUTORS.md in your code editor then add the following:
 ```
 - [Your Name](https://github.com/your-username)
 ```
