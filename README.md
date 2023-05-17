@@ -24,10 +24,10 @@ Choose the option that aligns with your preferred workflow and comfort level wit
 [Step 2: Clone this repository](#clone-this-repository)  
 [Step 3: Create a branch](#create-a-branch)  
 [Step 4: Make your changes](#make-your-changes)  
-[Step 5: Commit your changes](#commit-your-changes)  
-[Step 6: Push your changes to GitHub](#push-your-changes-to-github)  
-[Step 7: Submit a pull request](#submit-a-pull-request)  
-[Step 8: Next Steps](#next-steps)  
+[Step 5: Stage your changes](#stage-your-changes)  
+[Step 6: Commit your changes](#commit-your-changes)  
+[Step 7: Push your changes to GitHub](#push-your-changes-to-github)  
+[Step 8: Submit a pull request](#submit-a-pull-request)    
 
 
 ## Fork this repository
