@@ -24,7 +24,7 @@ Choose the option that aligns with your preferred workflow and comfort level wit
 
 Choose the option that aligns with your preferred workflow and comfort level with Git and GitHub. Regardless of the method you choose, the key is to understand the underlying concepts and processes involved in contributing to open source projects.
 
-## Start Contributing
+## 🚀 Start Contributing
 [Step 1: Fork this repository](#fork-this-repository)  
 [Step 2: Clone this repository](#clone-this-repository)  
 [Step 3: Create a branch](#create-a-branch)  
