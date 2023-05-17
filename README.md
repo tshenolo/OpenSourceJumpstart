@@ -137,7 +137,7 @@ Next steps may include exploring other issues or features to work on, continuing
 By following these steps, developers can gain practical experience in contributing to open source projects, familiarize themselves with collaboration workflows, and build their reputation in the open source community.
 
 ## Become a maintainer of this repo
-Are you interested in becoming a maintainer for this project and contributing to its development? If so, please read the maintainer's guide and send me a direct message on [Twitter](https://twitter.com/tshenolo) to express your interest. 
+Are you interested in becoming a maintainer for this project and contributing to its development? If so, please read the [maintainer's guide](MAINTAINER_GUIDE.md) and send me a direct message on [Twitter](https://twitter.com/tshenolo) to express your interest. 
 
 ## Code of Conduct
 We strive to maintain an inclusive and welcoming community. Please review and abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
