@@ -52,7 +52,7 @@ git checkout -b <your-username>-contribution
 
 👉🏻 Stage your changes by executing the following command:
 ```
-git add Contributors.md
+git add CONTRIBUTORS.md
 ```
 
 

@@ -22,9 +22,6 @@ When it comes to contributing to open source projects, you have several options 
 
 Choose the option that aligns with your preferred workflow and comfort level with Git and GitHub. Regardless of the method you choose, the key is to understand the underlying concepts and processes involved in contributing to open source projects.
 
-Choose the option that aligns with your preferred workflow and comfort level with Git and GitHub. Regardless of the method you choose, the key is to understand the underlying concepts and processes involved in contributing to open source projects.
-
-
 If you do not have git installed on your machine, we recommend installing it. You can find detailed instructions on setting up git in the documentation available at [https://docs.github.com/en/get-started/quickstart/set-up-git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
 ## 🚀 Start Contributing
@@ -99,7 +96,7 @@ git add .
 
 👉🏻 Stage your changes by executing the following command:
 ```
-git add Contributors.md
+git add CONTRIBUTORS.md
 ```
 
 
