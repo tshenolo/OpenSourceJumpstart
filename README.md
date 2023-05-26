@@ -6,7 +6,7 @@ Open Source Contribution consists of identifying a project you would like to con
 
 ## Thank you for the Support
 - ⭐ Give this repo a ⭐ star ⭐ at the top of the page
-- 🐦 Follow me on twitter [@tshenolo](https://twitter.com/tshenolo)
+- 🐦 Follow me on twitter [twitter](https://twitter.com/tshenolo)
 - 📺 Subscribe to my [Youtube channel](https://www.youtube.com/@tshenolo?sub_confirmation=1)
 
 ## Options for Contributing to Open Source
@@ -23,6 +23,12 @@ When it comes to contributing to open source projects, you have several options 
 Choose the option that aligns with your preferred workflow and comfort level with Git and GitHub. Regardless of the method you choose, the key is to understand the underlying concepts and processes involved in contributing to open source projects.
 
 If you do not have git installed on your machine, we recommend installing it. You can find detailed instructions on setting up git in the documentation available at [https://docs.github.com/en/get-started/quickstart/set-up-git](https://docs.github.com/en/get-started/quickstart/set-up-git)
+
+
+## 🎬 Video demonstration
+
+<iframe style="display:none;" class="mb-3 mt-3" width="100%" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 
 ## 🚀 Start Contributing
 [Step 1: Fork this repository](#fork-this-repository)  
