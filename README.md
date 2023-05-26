@@ -27,8 +27,7 @@ If you do not have git installed on your machine, we recommend installing it. Yo
 
 ## 🎬 Video demonstration
 
-<iframe style="display:none;" class="mb-3 mt-3" width="100%" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NpEaa2P7qZI/0.jpg)](https://www.youtube.com/watch?v=NpEaa2P7qZI)
 
 ## 🚀 Start Contributing
 [Step 1: Fork this repository](#fork-this-repository)  
