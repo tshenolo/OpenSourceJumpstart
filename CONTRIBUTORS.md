@@ -1,4 +1,5 @@
 # Contributors
 
 - [Tshenolo Mos](https://github.com/tshenolo)
-- [Your Name](https://github.com/your-usernamee)
+- [codingweekly](https://github.com/codingweekly)
+- [Your Name](https://github.com/your-username)
