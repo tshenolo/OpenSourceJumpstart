@@ -27,7 +27,7 @@ If you do not have git installed on your machine, we recommend installing it. Yo
 
 ## 🎬 Video demonstration
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NpEaa2P7qZI/0.jpg)](https://www.youtube.com/watch?v=NpEaa2P7qZI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4Wg6XlXP458/0.jpg)](https://www.youtube.com/watch?v=4Wg6XlXP458)
 
 
 ## 🚀 Start Contributing
